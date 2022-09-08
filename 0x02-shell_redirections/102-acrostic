@@ -1,0 +1,2 @@
+#!/bin/bash
+|rev | LC_ALL-C sort -f 26. cut -c 1 paste -s -d "
